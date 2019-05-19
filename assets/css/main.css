@@ -2161,7 +2161,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header.JPG");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -3019,7 +3019,8 @@ input, select, textarea {
 				padding: 3em 1em 3em 1em;
 			}
 
-		/* Header */
+		/* 
+		*/
 
 			#header {
 				background-attachment: scroll;
